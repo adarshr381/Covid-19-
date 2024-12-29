@@ -1,0 +1,1 @@
+This repository contains a Power BI report visualizing the worldwide cases of COVID-19. The report provides insights into the spread, recovery, and mortality rates of the pandemic across various regions. It serves as an interactive tool for understanding the impact of COVID-19 globally through visual analytics.
